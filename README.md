@@ -10,7 +10,7 @@ Given a PDF, the pipeline:
 
 ## Two ways to use this repo
 
-- **Run the notebook**  [`project2.ipynb`](project2.ipynb) has everything in one place, in the order it was developed, with real outputs and plots already saved. This is the easiest way to see the project working end-to-end. Open it in Google Colab or Jupyter, run the cells top to bottom, and upload a PDF when prompted.
+- **Run the notebook**  [`AbstractiveReinforcement_Learning_PDF_Summarizer.ipynb`](AbstractiveReinforcement_Learning_PDF_Summarizer.ipynb) has everything in one place, in the order it was developed, with real outputs and plots already saved. This is the easiest way to see the project working end-to-end. Open it in Google Colab or Jupyter, run the cells top to bottom, and upload a PDF when prompted.
 - **Run the Python scripts**  the same code, split into standalone `.py` files under [`scripts/`](scripts/), for anyone who'd rather read or run it outside a notebook (e.g. straight from GitHub, or in a local Python environment/IDE).
 
 Both are kept in sync with each other, pick whichever is more convenient for you.
@@ -51,7 +51,7 @@ Each script has its own docstring at the top listing exactly which packages it n
 
 ## Repo contents
 
-- [`project2.ipynb`](project2.ipynb) — the original notebook, unchanged, with saved outputs.
+- [`AbstractiveReinforcement_Learning_PDF_Summarizer.ipynb`](AbstractiveReinforcement_Learning_PDF_Summarizer.ipynb) — the original notebook, unchanged, with saved outputs.
 - [`scripts/`](scripts/) — the notebook's code cells as standalone, locally-runnable Python scripts (see table above).
 - [`requirements.txt`](requirements.txt) — dependencies for the recommended script.
 - [`data.xlsx`](data.xlsx) — sample/supporting data used during development.
