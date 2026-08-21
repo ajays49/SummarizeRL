@@ -1,1 +1,0 @@
-This file has all the codes and related documents to thw abstractive+reinforcement learning based summarizer. The summarizer utilizes, abstarctive, reinforcement learning for summarizing and is evaluated using ROUGE Score.
